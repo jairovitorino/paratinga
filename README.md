@@ -1,0 +1,2 @@
+# paratinga
+Administração de condomínio
